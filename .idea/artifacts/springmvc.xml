@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springmvc">
+    <output-path>$USER_HOME$/tomcat/apache-tomcat-8.5.23/webapps/springmvc</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Idea_workspace/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Idea_workspace" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="spring-aop-4.3.3.RELEASE" />
+          <element id="library" level="project" name="spring-orm-4.3.3.RELEASE" />
+          <element id="library" level="project" name="org.jomc.logging:jomc-logging-commons-logging:1.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

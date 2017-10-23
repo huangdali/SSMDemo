@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.jomc.logging:jomc-logging-commons-logging:1.0" type="repository">
+    <properties maven-id="org.jomc.logging:jomc-logging-commons-logging:1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jomc/logging/jomc-logging-commons-logging/1.0/jomc-logging-commons-logging-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jomc/jomc-api/1.0/jomc-api-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jomc/jomc-spi/1.0/jomc-spi-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jomc/logging/jomc-logging-api/1.0/jomc-logging-api-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
